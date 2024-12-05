@@ -7,6 +7,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   </br>
   <img src="https://readme-typing-svg.herokuapp.com?color=%ffa0c5&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Kieu;I+am+a+Graduating+student;Web+Dev">
+   <img src="./assets/Divider.gif"> 
 </h1>
 
 ## <img src="./assets/girl.gif" width="50"> **_About Me_**
